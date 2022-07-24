@@ -13,7 +13,7 @@ This project was created to provide a tool for creating a more secure password b
 
 ## Demo of Application
 
- <img src="Assets\images\PasswordGenerator.JPG" width=25%>
+ <img src="Assets\images\PasswordGenerator.JPG">
 
 ## Link to Application
 
